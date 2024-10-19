@@ -1,0 +1,33 @@
+h1{
+    color:red;
+    text-align: center;
+    font-family: 'Lucida Calligraphy', cursive;
+}
+h2{
+    color:rgb(57, 160, 9);
+    
+}
+u{
+    color:fuchsia;
+    font-size: 28px;
+}
+b{
+    color:lawngreen;
+}
+h3{
+    color:darkmagenta;
+    text-align: center;
+}
+html{
+    background-color:lightskyblue;
+}
+p{
+    font-size: 18px;
+}
+iframe {
+    justify-content:center;
+}
+.video {
+    display: flex;
+    justify-content: center;
+}
