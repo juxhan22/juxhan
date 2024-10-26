@@ -31,3 +31,11 @@ iframe {
     display: flex;
     justify-content: center;
 }
+a{
+    font-size: 30px;
+    background-color: beige;
+    text-decoration: none;
+    color:chocolate;
+    text-align: center;
+
+}
